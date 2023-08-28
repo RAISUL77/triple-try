@@ -1,32 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1899808c-b121-44b1-b2ad-22bfaa8be644" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterEight.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem1/CashRegister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem1/CashRegisterRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem1/Coin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem2/CashRegister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem2/CashRegisterRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem2/Coin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem3/Bills.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem3/Coin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem3/PaymentProcess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem3/PaymentProcessCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem4/Reader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem4/ReaderRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem5/AccountChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem5/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem7/Geometry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem7/GeometryCheck.java" afterDir="false" />
+    <list default="true" id="1899808c-b121-44b1-b2ad-22bfaa8be644" name="Changes" comment="trryyyy">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -61,7 +38,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/Java class doc/intellji Doc/Java project/ChapterEight"
   }
 }]]></component>
   <component name="RunManager" selected="Application.PaymentProcessCheck">
